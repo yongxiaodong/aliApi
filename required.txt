@@ -1,0 +1,5 @@
+
+alibabacloud_cs20151215
+aliyun-python-sdk-core
+aliyun-python-sdk-ecs
+aliyun-python-sdk-bssopenapi
